@@ -89,3 +89,9 @@ div {
     }
 }
 
+@media screen and (max-height: 1100px) {
+    IMG {
+        width: 50%;
+        height: 50%;
+    }
+}
